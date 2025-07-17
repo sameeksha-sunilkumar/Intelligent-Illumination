@@ -25,5 +25,5 @@ intelligent-illumination/
 - Fast detection under 300ms
 - Energy-saving and real-time room automation
 
-## 🧪 Demo
+
 ![](demo/demo.gif)
